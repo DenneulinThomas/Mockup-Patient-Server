@@ -5,11 +5,69 @@
   },
   "users": [
     {
-      "id": 1,
-      "lastName": "John",
-      "firstName": "Doe",
-      "birthDate": "01/01/2000",
-      "socialSecurityNumber": "1 23 45 67 891 23 45"
+      "email": "aaaaaa@gmail.com",
+      "password": "12345",
+      "validationPassword": "12345",
+      "phone": "0645345465",
+      "id": 1
+    },
+    {
+      "email": "aaaaaa@gmail.com",
+      "password": "12345",
+      "validationPassword": "12345",
+      "phone": "0645324565",
+      "id": 2
+    },
+    {
+      "email": "AZE@gmai.com",
+      "password": "12345",
+      "phone": "0664323323",
+      "validationPassword": "12345",
+      "id": 3
+    },
+    {
+      "email": "azerty@gmai.com",
+      "password": "12345",
+      "phone": "0645136775",
+      "id": 4
+    },
+    {
+      "email": "denneulin.thomas@gmail.com",
+      "password": "12345",
+      "phone": "0644513245",
+      "id": 5
+    },
+    {
+      "email": "denneulin.thomas@gmail.com",
+      "password": "12345",
+      "phone": "0645138637",
+      "id": 6
+    },
+    {
+      "email": "AZERTTT@gmail.com",
+      "password": "12345",
+      "phone": "065454353",
+      "id": 7
+    },
+    {
+      "email": "denneulin.thomas@gmail.com",
+      "password": "12345",
+      "phone": "0654345421",
+      "id": 8
+    },
+    {
+      "email": "denneuin.thomas@gmail.com",
+      "password": "12345",
+      "phone": "0645657687",
+      "id": 9
     }
-  ]
+  ],
+  "sayOk": {
+    "id": 1,
+    "value": true
+  },
+  "phoneCodeValidation": {
+    "id": 1,
+    "code": "123456"
+  }
 }
